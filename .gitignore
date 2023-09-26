@@ -1,0 +1,5 @@
+math.egg-info/
+math_package_test/
+math_package_test.egg-info/
+dist/
+build/
